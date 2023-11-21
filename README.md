@@ -28,10 +28,10 @@ Welcome to my GitHub profile. I am a professional dedicated to creating interact
 
 ### 💼 Experience:
 #### [My Seat](https://mibutaca.vercel.app/)
-Contributed as a backend developer to "My Seat", an interactive e-commerce platform for buying and selling event tickets.
-Ensured all database operations were efficient and secure, utilizing technologies such as Node.js, Express, and PostgreSQL.
-Contributed to seamless integration between backend and frontend, working closely with the frontend development team.
-The application is currently in production and operating stably, reflecting the quality of the code and the infrastructure implemented.
+- Contributed as a backend developer to "My Seat", an interactive e-commerce platform for buying and selling event tickets.
+- Ensured all database operations were efficient and secure, utilizing technologies such as Node.js, Express, and PostgreSQL.
+- Contributed to seamless integration between backend and frontend, working closely with the frontend development team.
+- The application is currently in production and operating stably, reflecting the quality of the code and the infrastructure implemented.
 
 ---
 
