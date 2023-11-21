@@ -25,10 +25,6 @@ Welcome to my GitHub profile. I am a professional dedicated to creating interact
 
 ---
 
-### 📈 GitHub Statistics:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FranciscoPer&show_icons=true&theme=light)
-
----
 
 ### 💼 Experience:
 #### [My Seat](https://mibutaca.vercel.app/)
