@@ -17,10 +17,10 @@ Welcome to my GitHub profile. I am a professional dedicated to creating interact
 ---
 
 ### 🛠️ Technical Skills:
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS.
-- **Frameworks/Libraries:** React.js, Redux, Node.js, Express.js.
+- **Languages:** JavaScript (ES6+), TypeScript, Python, HTML5, CSS.
+- **Frameworks/Libraries:** React.js, Redux, Node.js, Express.js, Serverless, AWS.
 - **Tools:** Webpack, Babel, Git, CI/CD.
-- **Databases:** PostgreSQL.
+- **Databases:** PostgreSQL, SQLAlchemy
 - **Testing:** Jest.
 
 ---
